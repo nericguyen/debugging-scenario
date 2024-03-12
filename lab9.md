@@ -102,5 +102,4 @@ He submits his PA on time and receives an A+ and sleeps promptly afterward.
 I can not believe the quarter is almost over, I am getting emotional.  I think one of the coolest things I learned this quarter was actually from the most recent lab.
 Github is still very unfamiliar to me, so learning about the Issues and Pull Requests was really cool.  Essentially, they are comments that people can leave on public
 codes or suggestions for fixing code!  I think it's really interactive, and right after I left an issue on an old high school friend's repository and then we chatted
-a bit on iMessage after he saw my issue.  I guess the main thing I learned though from this second half of the quarter is that you learn by doing! It's all about
-doing and learning from mistakes.
+a bit on iMessage after he saw my issue.  I guess the main thing I learned though from this second half of the quarter is that you learn by doing! You can't learn everything by just reading, and you gotta be hands-on with your learning.
